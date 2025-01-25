@@ -1,5 +1,5 @@
 import React from "react";
-import "./FilterDropdown.css";
+import "./styles/FilterDropdown.css";
 
 const FilterDropdown=({departments, filterByDepartment}) => {
     return(
